@@ -1,1 +1,1 @@
-# CodeWay-Intern
+# Machine Learning Projects
